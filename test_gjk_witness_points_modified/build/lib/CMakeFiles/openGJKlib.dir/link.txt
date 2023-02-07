@@ -1,0 +1,2 @@
+/usr/bin/ar qc libopenGJKlib.a CMakeFiles/openGJKlib.dir/src/openGJK.c.o CMakeFiles/openGJKlib.dir/ext/predicates.c.o
+/usr/bin/ranlib libopenGJKlib.a
